@@ -1,3 +1,11 @@
 
 .env
 node_modules/
+.vscode
+
+
+$sha1=$(git hash-object -w example.txt)
+$sha1
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+ 

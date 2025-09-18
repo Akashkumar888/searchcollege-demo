@@ -1,0 +1,10 @@
+
+i am a fix file which will be used to fix bugs
+
+fixed another bug.
+one more bug detected and fixed. 
+fourth bug fixed.
+fifth bug fixed.
+another fix message for pink mode
+
+another fix message for purple mode
